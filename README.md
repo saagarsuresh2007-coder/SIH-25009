@@ -99,6 +99,4 @@ Social Benefits
 7. Encourages teamwork and participation among students.
 
 ## Research and References
-1.Online research about gamification in education
-2.College professor help and idea
-3.United Nations Sustainable Development Goals (SDGs)
+(https://www.education.gov.in/en/nep-new https://sdgs.un.org/goals https://www.unesco.org/en/sustainable-development/education)
